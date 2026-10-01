@@ -1,0 +1,5 @@
+PyQt5>=5.15.0
+huggingface_hub>=0.20.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+Pillow>=10.0.0
